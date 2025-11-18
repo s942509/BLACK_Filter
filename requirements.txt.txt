@@ -1,6 +1,0 @@
-pandas
-openpyxl
-fastapi
-uvicorn[standard]
-xlsxwriter
-python-multipart
