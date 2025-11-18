@@ -1,4 +1,6 @@
 pandas
 openpyxl
-streamlit
+fastapi
+uvicorn[standard]
 xlsxwriter
+python-multipart
